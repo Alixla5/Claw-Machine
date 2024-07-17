@@ -1,0 +1,4 @@
+C:\Users\Ali\source\repos\OOP Claw Machine\OOP Claw Machine\obj\Debug\net8.0\OOP Claw Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\OOP Claw Machine\OOP Claw Machine\obj\Debug\net8.0\OOP Claw Machine.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\OOP Claw Machine\OOP Claw Machine\obj\Debug\net8.0\OOP Claw Machine.AssemblyInfo.cs
+C:\Users\Ali\source\repos\OOP Claw Machine\OOP Claw Machine\obj\Debug\net8.0\OOP Claw Machine.csproj.CoreCompileInputs.cache
